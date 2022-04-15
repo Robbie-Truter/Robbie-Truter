@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Robert Truter</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Laravel**, **Node.js**, **Javascript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my main projects are available at [https://github.com/TimothyLang-tech?tab=repositories](https://github.com/TimothyLang-tech?tab=repositories)
 
