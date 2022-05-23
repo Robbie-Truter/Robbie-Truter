@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my main projects are available at [https://github.com/TimothyLang-tech?tab=repositories](https://github.com/TimothyLang-tech?tab=repositories)
 
-- 📫 How to reach me **Email:roberttruter1@gmail.com | Cell:0790547909**
+- 📫 How to reach me **Email:roberttruter1@gmail.com || Cell:0790547909**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
