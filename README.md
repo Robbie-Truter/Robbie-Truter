@@ -1,5 +1,5 @@
 # Robbie-Truter
-<h1 align="center">Hi 👋, I'm Robert Truter</h1>
+<h1 align="center">Hi 👋, I'm Robbie</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Next.js**
