@@ -1,4 +1,4 @@
-# TimothyLang-tech
+# Robbie-Truter
 <h1 align="center">Hi 👋, I'm Robert Truter</h1>
 <h3 align="center">Full Stack Developer</h3>
 
