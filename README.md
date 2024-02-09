@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **Email:roberttruter1@gmail.com || Cell:0790547909**
+- 📫 How to reach me **Email:roberttruter1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
