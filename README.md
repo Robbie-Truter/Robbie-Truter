@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Robbie</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **Email:roberttruter1@gmail.com**
 
