@@ -1,11 +1,20 @@
-<h3 align="center">Hi, my name is Robert <br>Software Developer at +OneX</h3>
-
-###
-
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Hi,%20my%20name%20is%20Robert%20%20Software%20Developer%20at%20+OneX&fontSize=20&fontAlign=50&fontAlignY=50&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Hi,%20my%20name%20is%20Robert%20%20Software%20Developer%20at%20+OneX&fontSize=29&fontAlign=50&fontAlignY=50&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbie-Truter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
@@ -48,19 +57,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbie-Truter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
