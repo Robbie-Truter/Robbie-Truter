@@ -1,14 +1,5 @@
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Hi,%20my%20name%20is%20Robert%20%20Software%20Developer%20at%20+OneX&fontSize=29&fontAlign=50&fontAlignY=50&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbie-Truter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
