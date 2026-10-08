@@ -63,21 +63,21 @@
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <!-- AI / LLM -->
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/claude" height="40" alt="claude logo" />
+   <!-- AI / LLM -->
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="openai logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlegemini.svg" height="40" alt="gemini logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg" height="40" alt="gemini logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol" height="40" alt="model context protocol logo" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/5E5CE6" height="40" alt="model context protocol logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ollama" height="40" alt="ollama logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo" />
-
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
 </div>
 
 ###
