@@ -64,19 +64,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <!-- AI / LLM -->
-  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/google" height="40" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/claude" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ollama" height="40" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/gemini" height="40" alt="gemini logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol" height="40" alt="model context protocol logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge" height="40" alt="MCP" />
-
-
+  <img src="https://cdn.simpleicons.org/ollama" height="40" alt="ollama logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo" />
 
 </div>
 
