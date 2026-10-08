@@ -68,9 +68,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/claude" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="openai logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gemini" height="40" alt="gemini logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlegemini.svg" height="40" alt="gemini logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol" height="40" alt="model context protocol logo" />
   <img width="12" />
