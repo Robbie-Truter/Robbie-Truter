@@ -69,9 +69,9 @@
  <!-- AI / LLM -->
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" alt="openai logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/openai.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="gemini logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/googlegemini.svg" height="40" alt="gemini logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/5E5CE6" height="40" alt="model context protocol logo" />
   <img width="12" />
