@@ -66,12 +66,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
   <img width="12" />
- <!-- AI / LLM -->
+   <!-- AI / LLM -->
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/openai.svg" height="40" alt="openai logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/googlegemini.svg" height="40" alt="gemini logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/googlegemini/default.svg" height="40" alt="gemini logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/5E5CE6" height="40" alt="model context protocol logo" />
   <img width="12" />
