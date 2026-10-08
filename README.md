@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/google-gemini.svg" height="40" alt="gemini logo" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Gemini_icon_2025.svg" height="40" alt="gemini logo" />  
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/5E5CE6" height="40" alt="model context protocol logo" />
   <img width="12" />
