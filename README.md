@@ -15,6 +15,7 @@
 ###
 
 <div align="left">
+  <!-- Software Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -62,6 +63,18 @@
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <!-- AI / LLM -->
+  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/google" height="40" alt="Gemini" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ollama" height="40" alt="Ollama" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge" height="40" alt="MCP" />
 
 
 
