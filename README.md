@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/claude" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" height="40" alt="openai logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="openai logo" />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlegemini.svg" height="40" alt="gemini logo" />
   <img width="12" />
